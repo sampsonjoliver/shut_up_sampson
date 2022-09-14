@@ -1,9 +1,9 @@
-# Shut Up, Thiago!
+# Shut Up, Sampson!
 
-Tired of Thiago hijacking meetings? Constantly getting discussions derailed? Your problems are over! Print your "Shut Up Thiago" card today!
+Tired of Sampson hijacking meetings? Constantly getting discussions derailed? Your problems are over! Print your "Shut Up Sampson" card today!
 
-![Card Preview](https://github.com/campezzi/shut_up_thiago/blob/master/preview.png)
+!<img width="344" alt="image" src="https://user-images.githubusercontent.com/9619248/190040439-9af8a236-9408-4d14-b8b0-82ea006f5475.png">
 
 ## Contributing
 
-If you think of any other useful Thiago cards, feel free to send a pull request. Keep each card in its own HTML file!
+If you think of any other useful Sampson cards, feel free to send a pull request. Keep each card in its own HTML file!
